@@ -1,2 +1,2 @@
 # my-python-snippets
-python EMI calculator
+collection of my python scripts
